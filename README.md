@@ -1,4 +1,6 @@
 # sql
+Curso SQL
+
 # 📊 Estudos de SQL
 
 Este repositório foi criado para **estudo e prática de SQL**, acompanhando um curso e servindo como material de apoio para consultas futuras.
